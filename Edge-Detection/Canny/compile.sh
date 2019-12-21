@@ -1,0 +1,1 @@
+gcc marrh.c -o Canny -lm

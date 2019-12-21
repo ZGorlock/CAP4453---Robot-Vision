@@ -1,0 +1,16 @@
+﻿  vdetect.cpp
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(435): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(424): warning C4101: 'filename' : unreferenced local variable
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(501): warning C4101: 'num_features' : unreferenced local variable
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(494): warning C4101: 'mean' : unreferenced local variable
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(494): warning C4101: 'var' : unreferenced local variable
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(1738): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(1739): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(1764): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(1769): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'inw' : unreferenced local variable
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'ise' : unreferenced local variable
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'isw' : unreferenced local variable
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'ine' : unreferenced local variable
+c:\users\zgorlock\docs\school\semester 07 (fall 16)\robot vision\assignments\assignment 2\assignment 2\adaboost\vdetect\vdetect\vdetect.cpp(1833): warning C4101: 'buffer' : unreferenced local variable
+  vdetect.vcxproj -> C:\Users\ZGorlock\Docs\School\Semester 07 (Fall 16)\Robot Vision\Assignments\Assignment 2\Assignment 2\AdaBoost\vdetect\Debug\vdetect.exe

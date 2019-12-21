@@ -1,0 +1,1 @@
+gcc sobel.c -o Sobel
